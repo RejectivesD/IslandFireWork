@@ -1,0 +1,13 @@
+Library/
+Temp/
+.vscode/
+.idea/
+Log/
+Package/
+UserSertting/
+*.sln
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.Ds_store
